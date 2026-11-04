@@ -1,0 +1,13 @@
+a = input("ingresa tu nombre:")
+b = input("ingresa tu edad:")
+c = input("ingresa tu hermana amiga:")
+d = input("ingresa tu comida favorita:")
+e = input("ingresa tu animal favorito:")
+d = input("ingresa tu color favorito:")
+print("hola me llamo",a,)
+print("tengo",b,"años")
+print("mi mejor amiga que es mi hermana es",c,)  
+print("mi comida favorita es",d,)    
+print("mi animal favorito es",e,)
+print("mi color favorito es",d,)
+      
